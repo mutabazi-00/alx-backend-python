@@ -1,0 +1,1 @@
+In Python, variable annotations provide a way to explicitly indicate the type of a variable using a colon followed by the type hint. These annotations do not enforce type checking at runtime but serve as hints for developers and static type checkers like mypy.
