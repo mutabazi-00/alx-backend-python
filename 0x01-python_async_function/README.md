@@ -1,0 +1,2 @@
+This project demonstrates the use of asynchronous programming in Python using `asyncio` and `async`/`await` syntax. Asynchronous programming allows for concurrent execution of tasks, making it ideal for I/O-bound operations, such as network requests or file I/O. By utilizing `async`, this project improves efficiency and performance by enabling the program to handle multiple tasks simultaneously without blocking the main thread.
+
